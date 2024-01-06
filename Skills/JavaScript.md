@@ -82,8 +82,8 @@
   - Date: 🙋 explained
   - BigInt: 🎓 known
 - Infrastructure
-  - V8: 🙋 explained
-  - Node.js: 🙋 explained
+  - V8: 🔬 researched
+  - Node.js: 🔬 researched
   - npm: 🙋 explained
   - prettier: 🖐️ used
   - MDN: 🖐️ used

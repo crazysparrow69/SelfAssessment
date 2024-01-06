@@ -1,25 +1,25 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 🙋 explained
+  - Event loop: 🔬 researched
   - try..catch: 🙋 explained
   - Non-blocking: 🙋 explained
   - Async I/O: 🙋 explained
   - Thread pool: 👂 heard
-  - Pattern Reactor: 🎓 known
+  - Pattern Reactor: 🙋 explained
   - CAS operations: 👂 heard
   - epoll: 🎓 known
   - kqueue: 🎓 known
   - Completion ports: 👂 heard
   - Event ports: 👂 heard
-  - libuv: 🖐️ used
+  - libuv: 🔬 researched
   - Race conditions: 🎓 known
   - Dead locks: 🎓 known
   - Live locks: 🎓 known
   - Concurrent programming: 🎓 known
   - Parallel programming: 🎓 known
   - Actor Model: 👂 heard
-  - Thread: 🖐️ used
+  - Thread: 🖐 used
   - Process: 🎓 known
 - Async contracts
   - Callbacks: 🙋 explained
@@ -36,7 +36,7 @@
   - Coroutine: 🎓 known
   - Goroutine: 🎓 known
   - Signal: 🎓 known
-  - Stream: 🖐️ used
+  - Stream: 🖐 used
   - Chain of responsibility: 👂 heard
   - Middleware: 🙋 explained
   - Locks: 👂 heard
@@ -47,8 +47,8 @@
   - callbacks compose: 👂 heard
   - async compose: 👂 heard
 - Async abstractions interfaces
-  - EventEmitter: 🖐️ used
-  - Observable/Observer: 🖐️ used
+  - EventEmitter: 🖐 used
+  - Observable/Observer: 🙋 explained
   - Readable: 🎓 known
   - Writable: 🎓 known
   - Transform: 🎓 known
@@ -73,7 +73,7 @@
   - Callback hell: 🙋 explained
   - Promise hell: 🙋 explained
   - ref() and unref(): 👂 heard
-  - Error handling in async code: 🖐️ used
+  - Error handling in async code: 🖐 used
   - Better stack traces with return await: 👂 heard
   - JSON: streaming serialization: 👂 heard
   - promisify: 👂 heard
@@ -84,10 +84,10 @@
   - async.js library: 👂 heard
   - RxJS library: 👂 heard
   - Async composition: 👂 heard
-  - Promise.all: 🎓 known
-  - Promise.allSettled: 🎓 known
-  - Promise.race: 🎓 known
-  - Promise.any: 🎓 known
+  - Promise.all: 🙋 explained
+  - Promise.allSettled: 🙋 explained
+  - Promise.race: 🙋 explained
+  - Promise.any: 🙋 explained
   - Web Locks API: 👂 heard
   - IPC: 👂 heard
   - Channel API: 👂 heard
