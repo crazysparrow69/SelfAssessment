@@ -114,9 +114,8 @@
   - `console`
   - Timers
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
-  - TC39
+  - V8: 🔬 researched
+  - Node.js: 🔬 researched
+  - npm: 🙋 explained
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used
