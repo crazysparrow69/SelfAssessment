@@ -22,24 +22,24 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
-  - Future
-  - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
-  - Coroutine
-  - Goroutine
-  - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
-  - Locks
+  - Callbacks: 🙋 explained
+  - Callback-last-error-first: 🙋 explained
+  - Thenable: 👂 heard
+  - Promise: 🙋 explained
+  - Async/await: 🙋 explained
+  - Future: 👂 heard
+  - Deferred: 👂 heard
+  - Sync generator: 🎓 known
+  - Async Generator: 🎓 known
+  - Async Iterator: 🎓 known
+  - Event: 🙋 explained
+  - Coroutine: 🎓 known
+  - Goroutine: 🎓 known
+  - Signal: 🎓 known
+  - Stream: 🖐️ used
+  - Chain of responsibility: 👂 heard
+  - Middleware: 🙋 explained
+  - Locks: 👂 heard
 - Async adapters and utils
   - callbackify
   - promisify
@@ -47,17 +47,17 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
-  - Semaphore
-  - Mutex
-  - Spin Lock
+  - EventEmitter: 🖐️ used
+  - Observable/Observer: 🖐️ used
+  - Readable: 🎓 known
+  - Writable: 🎓 known
+  - Transform: 🎓 known
+  - Async Pool: 🎓 known
+  - Async Queue: 🎓 known
+  - Async Collector: 👂 heard
+  - Semaphore: 👂 heard
+  - Mutex: 👂 heard
+  - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
   - Timers
   - `setImmediate`
