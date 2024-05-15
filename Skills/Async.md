@@ -19,7 +19,7 @@
   - Concurrent programming: 🎓 known
   - Parallel programming: 🎓 known
   - Actor Model: 👂 heard
-  - Thread: 🖐 used
+  - Thread: 🖐: 🖐️ used
   - Process: 🎓 known
 - Async contracts
   - Callbacks: 🙋 explained
@@ -36,7 +36,7 @@
   - Coroutine: 🎓 known
   - Goroutine: 🎓 known
   - Signal: 🎓 known
-  - Stream: 🖐 used
+  - Stream: 🖐: 🖐️ used
   - Chain of responsibility: 👂 heard
   - Middleware: 🙋 explained
   - Locks: 👂 heard
@@ -47,7 +47,7 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter: 🖐 used
+  - EventEmitter: 🖐: 🖐️ used
   - Observable/Observer: 🙋 explained
   - Readable: 🎓 known
   - Writable: 🎓 known
@@ -73,11 +73,9 @@
   - Callback hell: 🙋 explained
   - Promise hell: 🙋 explained
   - ref() and unref(): 👂 heard
-  - Error handling in async code: 🖐 used
+  - Error handling in async code: 🖐: 🖐️ used
   - Better stack traces with return await: 👂 heard
   - JSON: streaming serialization: 👂 heard
-  - promisify: 👂 heard
-  - callbackify: 👂 heard
   - AsyncLocalStorage: 👂 heard
   - AsyncResource: 👂 heard
 - Techniques
