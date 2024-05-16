@@ -7,7 +7,7 @@
   - Number: 🙋 explained
   - BigInt: 🙋 explained
   - String: 🙋 explained
-  - Symbol: 👂 heard
+  - Symbol: 🖐 used
   - Infinity: 🙋 explained
   - NaN: 🙋 explained
   - undefined: 🙋 explained
@@ -24,7 +24,7 @@
   - Async iterator: 🎓 known
   - Chaining: 🙋 explained
   - Optional chaining: 🙋 explained
-  - IIFE: 🎓 known
+  - IIFE: 🖐 used
   - Async IIFE: 🎓 known
   - global: 🙋 explained
   - globalThis: 🙋 explained
@@ -38,7 +38,7 @@
   - Bitwise operators: 👂 heard
   - Ternary operator: 🙋 explained
   - void: 🙋 explained
-  - yield: 👂 heard
+  - yield: 🎓 known
   - await: 🙋 explained
   - Template literal: 🙋 explained
   - Strict mode: 🙋 explained
@@ -85,9 +85,9 @@
   - Function expression: 🙋 explained
   - Default parameters: 🙋 explained
   - Functional object: 🙋 explained
-  - Function.prototype.call: 🎓 known
-  - Function.prototype.bind: 🎓 known
-  - Function.prototype.apply: 🎓 known
+  - Function.prototype.call: 🙋 explained
+  - Function.prototype.bind: 🙋 explained
+  - Function.prototype.apply: 🙋 explained
   - return: 🙋 explained
 - Data structures
   - Array: 🙋 explained
@@ -97,7 +97,7 @@
   - WeakSet: 🎓 known
   - Typed arrays: 🙋 explained
   - Mixins: 🎓 known
-  - Object.assign: 🎓 known
+  - Object.assign: 🙋 explained
 - Standard classes and namespaces
   - `Proxy`: 🎓 known
   - `RegExp`: 🙋 explained
@@ -105,7 +105,7 @@
   - `Math`: 🙋 explained
   - `Reflect`: 👂 heard
   - `Error`: 🙋 explained
-  - `Atomics`: 👂 heard
+  - `Atomics`: 🚀 constructed
   - `JSON`: 🙋 explained
   - `WeakRef`: 👂 heard
   - `FinalizationRegistry`: 👂 heard
@@ -117,5 +117,5 @@
   - V8: 🔬 researched
   - Node.js: 🔬 researched
   - npm: 🙋 explained
-  - prettier: 🖐️ used
-  - MDN: 🖐️ used
+  - prettier: 🙋 explained
+  - MDN: 🙋 explained

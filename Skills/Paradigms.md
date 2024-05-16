@@ -58,17 +58,17 @@
   - Protected variations: 👂 heard
   - Pure fabrication: 👂 heard
 - SOLID
-  - Single-responsibility principle (SRP): 🖐️ used
-  - Open–closed principle (OCP): 🎓 known
-  - Liskov substitution principle (LSP): 👂 heard
-  - Interface segregation principle (ISP): 👂 heard
-  - Dependency inversion principle (DIP): 🖐️ used
+  - Single-responsibility principle (SRP): 🙋 explained
+  - Open–closed principle (OCP): 🙋 explained
+  - Liskov substitution principle (LSP): 🙋 explained
+  - Interface segregation principle (ISP): 🙋 explained
+  - Dependency inversion principle (DIP): 🙋 explained
 - Patterns
   - Singleton: 🚀 constructed
-  - Factory Method: 🎓 known
+  - Factory Method: 🙋 explained
   - Abstract Factory: 🎓 known
-  - Adapter: 🎓 known
-  - Observer: 🎓 known
+  - Adapter: 🖐️ used
+  - Observer: 🙋 explained
   - Strategy: 👂 heard
   - Facade: 👂 heard
   - Proxy: 👂 heard

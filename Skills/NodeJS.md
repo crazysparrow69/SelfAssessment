@@ -30,8 +30,8 @@
   - Node.js CLI: 🙋 explained
   - Process-based permissions: 👂 heard
   - Graceful shutdown: 👂 heard
-  - Clustering: 🎓 known
-  - Watch filesystem changes with --watch: 👂 heard
+  - Clustering: 🖐 used
+  - Watch filesystem changes with --watch: 🖐 used
 - Internal API
   - Streams API: 🖐 used
   - Web Streams API: 🖐 used
@@ -66,7 +66,7 @@
   - Separation of concerns: 👂 heard
   - Inversion of control: 👂 heard
   - Dependency injection: 🙋 explained
-  - GRASP: 👂 heard
+  - GRASP: 🖐 used
   - SOLID: 🙋 explained
   - GoF patterns: 🙋 explained
   - Distributed systems: 👂 heard
@@ -93,16 +93,16 @@
   - Websocket: 🙋 explained
   - SSE: 🙋 explained
   - HTTP/3 (QUIC): 👂 heard
-  - Long polling: 🎓 known
+  - Long polling: 🖐 used
   - REST: 🙋 explained
   - RPC: 🎓 known
-  - Routing: 🎓 known
+  - Routing: 🖐 used
   - DoS: 🎓 known
   - DDoS: 🙋 explained
   - XSS: 🙋 explained
   - Path traversal: 👂 heard
   - CSRF: 🎓 known
-  - DNS: 🎓 known
+  - DNS: 🖐 used
   - Fetch API: 🙋 explained
   - IncomingMessage: 👂 heard
   - SQL injection: 🖐 used
@@ -110,7 +110,7 @@
   - keep-alive: 🙋 explained
   - ALPN: 👂 heard
   - SNI callback: 👂 heard
-  - SSL certificates: 🎓 known
+  - SSL certificates: 🖐 used
   - Protocol agnostic approach: 👂 heard
 - Technique and tools
   - Native test runner: 👂 heard
@@ -137,19 +137,19 @@
   - Object-Relational Mapping: 👂 heard
 - Error handling and debugging
   - Error: 🙋 explained
-  - error.cause: 🎓 known
-  - error.code: 🎓 known
-  - error.message: 🎓 known
-  - error.stack: 🎓 known
+  - error.cause: 🙋 explained
+  - error.code: 🙋 explained
+  - error.message: 🙋 explained
+  - error.stack: 🙋 explained
   - How to avoid mixins: 👂 heard
-  - Error.captureStackTrace: 👂 heard
+  - Error.captureStackTrace: 🖐 used
   - Uncaught exceptions: 🙋 explained
   - Heap dump: 🎓 known
   - Debugging tools: 🖐 used
   - Flame graph: 👂 heard
   - Memory leaks: 👂 heard
   - Resource leaks: 👂 heard
-  - Data race: 👂 heard
+  - Data race: 🙋 explained
 - Integrations and bindings
   - Native addons: 👂 heard
   - C and C++ addons: 👂 heard
