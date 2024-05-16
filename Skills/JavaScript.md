@@ -2,16 +2,16 @@
 
 - Language
   - Object: 🙋 explained
-  - Function
-  - Boolean
-  - Number
-  - BigInt
-  - String
+  - Function: 🙋 explained
+  - Boolean: 🙋 explained
+  - Number: 🙋 explained
+  - BigInt: 🙋 explained
+  - String: 🙋 explained
   - Symbol: 👂 heard
-  - Infinity
-  - NaN
-  - undefined
-  - null
+  - Infinity: 🙋 explained
+  - NaN: 🙋 explained
+  - undefined: 🙋 explained
+  - null: 🙋 explained
   - this: 🙋 explained
   - instanceof: 🙋 explained
   - ...spread: 🙋 explained
@@ -25,7 +25,7 @@
   - Chaining: 🙋 explained
   - Optional chaining: 🙋 explained
   - IIFE: 🎓 known
-  - Async IIFE
+  - Async IIFE: 🎓 known
   - global: 🙋 explained
   - globalThis: 🙋 explained
   - window: 🙋 explained
@@ -34,7 +34,7 @@
   - prototype: 🙋 explained
   - Equality operators: 🙋 explained
   - Logical operators: 🙋 explained
-  - Logical Assignment
+  - Logical Assignment: 🎓 known
   - Bitwise operators: 👂 heard
   - Ternary operator: 🙋 explained
   - void: 🙋 explained
@@ -42,22 +42,22 @@
   - await: 🙋 explained
   - Template literal: 🙋 explained
   - Strict mode: 🙋 explained
-  - Hoisting
+  - Hoisting: 🎓 known
   - delete: 🙋 explained
   - in: 🙋 explained
   - super: 🙋 explained
-  - eval
-  - static
-  - Number.parseInt
-  - Number.parseFloat
-  - Property descriptors
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - eval: 🎓 known
+  - static: 🖐 used
+  - Number.parseInt: 🖐 used
+  - Number.parseFloat: 🖐 used
+  - Property descriptors: 🖐 used
+  - Sealing properties: 👂 heard
+  - Freezing properties: 🖐 used
+  - Computed properties: 👂 heard
+  - Instance class fields: 🖐 used
+  - Static class fields: 🖐 used
+  - Private class fields: 🖐 used
+  - Private class methods: 🖐 used
 - Statements
   - if: 🙋 explained
   - while: 🙋 explained
@@ -75,44 +75,44 @@
   - try..catch: 🙋 explained
   - switch: 🙋 explained
   - class: 🙋 explained
-  - extends
+  - extends: 🙋 explained
   - with: 👂 heard
-  - new
+  - new: 🙋 explained
 - Functions
-  - Arrow function
-  - Async function
+  - Arrow function: 🙋 explained
+  - Async function: 🙋 explained
   - Function declaration: 🙋 explained
   - Function expression: 🙋 explained
   - Default parameters: 🙋 explained
   - Functional object: 🙋 explained
-  - Function.prototype.call
-  - Function.prototype.bind
-  - Function.prototype.apply
+  - Function.prototype.call: 🎓 known
+  - Function.prototype.bind: 🎓 known
+  - Function.prototype.apply: 🎓 known
   - return: 🙋 explained
 - Data structures
   - Array: 🙋 explained
   - Map: 🙋 explained
   - Set: 🙋 explained
-  - WeakMap
-  - WeakSet
+  - WeakMap: 🎓 known
+  - WeakSet: 🎓 known
   - Typed arrays: 🙋 explained
   - Mixins: 🎓 known
-  - Object.assign
+  - Object.assign: 🎓 known
 - Standard classes and namespaces
-  - `Proxy`
-  - `RegExp`
-  - `Date`
-  - `Math`
-  - `Reflect`
-  - `Error`
-  - `Atomics`
-  - `JSON`
-  - `WeakRef`
-  - `FinalizationRegistry`
-  - `Intl`
-  - `Promise`
-  - `console`
-  - Timers
+  - `Proxy`: 🎓 known
+  - `RegExp`: 🙋 explained
+  - `Date`: 🙋 explained
+  - `Math`: 🙋 explained
+  - `Reflect`: 👂 heard
+  - `Error`: 🙋 explained
+  - `Atomics`: 👂 heard
+  - `JSON`: 🙋 explained
+  - `WeakRef`: 👂 heard
+  - `FinalizationRegistry`: 👂 heard
+  - `Intl`: 👂 heard
+  - `Promise`: 🖐️ used
+  - `console`: 🖐️ used
+  - Timers: 🙋 explained
 - Infrastructure
   - V8: 🔬 researched
   - Node.js: 🔬 researched

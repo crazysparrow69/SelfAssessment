@@ -20,12 +20,12 @@
   - Multi-paradigm programming: 🔬 researched
   - Metaprogramming: 🎓 known
   - Actor model: 🎓 known
-  - Lambda calculus
-  - Black box
-  - Information hiding
-  - Aspect-oriented programming
-  - Anemic domain model
-  - Class composition
+  - Lambda calculus: 👂 heard
+  - Black box: 👂 heard
+  - Information hiding: 👂 heard
+  - Aspect-oriented programming: 👂 heard
+  - Anemic domain model: 👂 heard
+  - Class composition: 👂 heard
 - OOP basics
   - Constructor: 🙋 explained
   - Operator new: 🙋 explained
@@ -47,22 +47,22 @@
   - Instance: 🙋 explained
   - Introspection: 👂 heard
   - Reflection: 🎓 known
-  - The diamond problem
+  - The diamond problem: 👂 heard
 - GRASP
-  - Information expert
-  - Creator
-  - Controller
-  - Indirection
-  - Low coupling
-  - High cohesion
-  - Protected variations
-  - Pure fabrication
+  - Information expert: 👂 heard
+  - Creator: 👂 heard
+  - Controller: 🖐️ used
+  - Indirection: 👂 heard
+  - Low coupling: 👂 heard
+  - High cohesion: 👂 heard
+  - Protected variations: 👂 heard
+  - Pure fabrication: 👂 heard
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP): 🖐️ used
+  - Open–closed principle (OCP): 🎓 known
+  - Liskov substitution principle (LSP): 👂 heard
+  - Interface segregation principle (ISP): 👂 heard
+  - Dependency inversion principle (DIP): 🖐️ used
 - Patterns
   - Singleton: 🚀 constructed
   - Factory Method: 🎓 known
@@ -86,6 +86,6 @@
   - Memento: 🎓 known
   - Template Method: 🎓 known
   - Visitor: 👂 heard
-  - Reactor
-  - Active object
-  - Delegation
+  - Reactor: 🎓 known
+  - Active object: 👂 heard
+  - Delegation: 👂 heard
