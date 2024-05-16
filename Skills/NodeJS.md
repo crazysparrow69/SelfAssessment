@@ -136,34 +136,34 @@
   - Query builder: 🎓 known
   - Object-Relational Mapping: 👂 heard
 - Error handling and debugging
-  - `Error`
-  - `error.cause`
-  - `error.code`
-  - `error.message`
-  - `error.stack`
-  - `Error.captureStackTrace`
-  - How to avoid mixins
-  - Uncaught exceptions
-  - Heap dump
-  - Debugging tools
-  - Flame graph
-  - Memory leaks
-  - Resource leaks
-  - Data race
+  - Error: 🙋 explained
+  - error.cause: 🎓 known
+  - error.code: 🎓 known
+  - error.message: 🎓 known
+  - error.stack: 🎓 known
+  - How to avoid mixins: 👂 heard
+  - Error.captureStackTrace: 👂 heard
+  - Uncaught exceptions: 🙋 explained
+  - Heap dump: 🎓 known
+  - Debugging tools: 🖐 used
+  - Flame graph: 👂 heard
+  - Memory leaks: 👂 heard
+  - Resource leaks: 👂 heard
+  - Data race: 👂 heard
 - Integrations and bindings
-  - Native addons
-  - `C` and `C++` addons
-  - `Rust` addons
-  - `Zig` addons
-  - NAN (Native Abstractions for Node.js)
-  - Node-API (formerly N-API)
-  - NAPI `C` and `C++`
-  - NAPI `Rust`
-  - NAPI `Zig`
-  - Webassembly `WAT`
-  - Webassembly `C` and `C++`
-  - Webassembly `Rust`
-  - Webassembly `Zig`
-  - Webassembly `AssemblyScript`
-  - Shared memory
-  - V8 binary serialization
+  - Native addons: 👂 heard
+  - C and C++ addons: 👂 heard
+  - Rust addons: 👂 heard
+  - Zig addons: 👂 heard
+  - NAN (Native Abstractions for Node.js): 👂 heard
+  - Node-API (formerly N-API): 🎓 known
+  - NAPI C and C++: 👂 heard
+  - NAPI Rust: 👂 heard
+  - NAPI Zig: 👂 heard
+  - Webassembly WAT: 👂 heard
+  - Webassembly C and C++: 👂 heard
+  - Webassembly Rust: 👂 heard
+  - Webassembly Zig: 👂 heard
+  - Webassembly AssemblyScript: 👂 heard
+  - Shared memory: 👂 heard
+  - V8 binary serialization: 👂 heard

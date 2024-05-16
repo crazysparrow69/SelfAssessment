@@ -41,11 +41,11 @@
   - Middleware: 🙋 explained
   - Locks: 👂 heard
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - Callbacks compose
-  - Async compose
+  - callbackify: 🎓 known
+  - promisify: 🎓 known
+  - asyncify: 🎓 known
+  - Callbacks compose: 👂 heard
+  - Async compose: 👂 heard
 - Async abstractions interfaces
   - EventEmitter: 🖐 used
   - Observable/Observer: 🙋 explained

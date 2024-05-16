@@ -32,31 +32,31 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
+  - Value: 🙋 explained
+  - Identifier: 🙋 explained
+  - Variable: 🙋 explained
+  - Constant: 🙋 explained
+  - Scalar: 🙋 explained
+  - Literal: 🙋 explained
+  - Expression: 🙋 explained
+  - Heap: 🙋 explained
+  - Function: 🙋 explained
+  - Procedure: 🙋 explained
+  - Method: 🙋 explained
+  - Class: 🙋 explained
+  - Prototype: 🙋 explained
+  - Event: 🙋 explained
+  - Type: 🙋 explained
+  - Flag: 🙋 explained
+  - Lexical scope: 🙋 explained
+  - Code block: 🙋 explained
+  - Conditions: 🙋 explained
+  - Loops: 🙋 explained
+  - Assignment: 🙋 explained
+  - Regular expression: 🙋 explained
+  - Interface: 🙋 explained
   - Namespaces
-  - Call stack
+  - Call stack: 🙋 explained
   - Naming conventions
   - Coding conventions
   - Camel case
@@ -81,56 +81,56 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
-  - Partial application
+  - Signature: 🙋 explained
+  - Argument: 🙋 explained
+  - Parameter: 🙋 explained
+  - Pure function: 🙋 explained
+  - Lambda expression: 🙋 explained
+  - Side effects: 🙋 explained
+  - Closure: 🙋 explained
+  - Partial application: 🎓 known
   - Currying
-  - Higher order
-  - Recursion
-  - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
-  - Memoize
-  - Wrapper
-  - Functor
-  - Monad
-  - Monoid
-  - Generator
-  - Coroutine
+  - Higher order: 🙋 explained
+  - Recursion: 🙋 explained
+  - Tail call optimization
+  - Callback: 🙋 explained
+  - Listener: 🙋 explained
+  - Composition: 🎓 known
+  - Pipe: 🎓 known
+  - Memoize: 🙋 explained
+  - Wrapper: 🙋 explained
+  - Functor: 🎓 known
+  - Monad: 👂 heard
+  - Monoid: 👂 heard
+  - Generator: 🎓 known
+  - Coroutine: 🎓 known
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
-  - JSON5
-  - YAML
+  - Array: 🙋 explained
+  - Structure: 🙋 explained
+  - Record: 🙋 explained
+  - Enum: 🙋 explained
+  - Instance: 🙋 explained
+  - Object: 🙋 explained
+  - Collection: 🙋 explained
+  - Set: 🙋 explained
+  - Hash table: 🎓 known
+  - Linked list: 🙋 explained
+  - Doubly list: 🙋 explained
+  - Unrolled list: 🙋 explained
+  - Circular list: 🙋 explained
+  - Queue: 🙋 explained
+  - Stack: 🙋 explained
+  - Deque:
+  - Tree:
+  - Graph:
+  - Iterator:
+  - Mutable state:
+  - Immutable state: 🖐 used
+  - Serialization: 🎓 known
+  - String parsing: 🙋 explained
+  - JSON:
+  - JSON5:
+  - YAML:
 - Networking
   - DNS
   - CDN
@@ -142,34 +142,34 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
-  - Ahead-of-time compilation
-  - Transpiler
-  - Linter
-  - Polyfill
-  - Interpreter
-  - Linker
-  - Dynamic linking
-  - Static linking
-  - Runtime
-  - Virtual machine
-  - Register-based VM
-  - Stack-based VM
-  - Containerization
-  - Debugger
-  - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
-  - Kubernetes
-  - GCC
-  - LLVM
+  - Compiler: 🙋 explained
+  - Just-in-time compilation:
+  - Ahead-of-time compilation:
+  - Transpiler: 🎓 known
+  - Linter: 🙋 explained
+  - Polyfill: 🎓 known
+  - Interpreter: 🎓 known
+  - Linker:
+  - Dynamic linking:
+  - Static linking:
+  - Runtime:
+  - Virtual machine:
+  - Register-based VM:
+  - Stack-based VM:
+  - Containerization:
+  - Debugger: 🙋 explained
+  - Tracing:
+  - Garbage collection: 🙋 explained
+  - Refactoring: 🙋 explained
+  - Code review: 🙋 explained
+  - Exception: 🙋 explained
+  - Unittesting: 🙋 explained
+  - git: 🙋 explained
+  - Github: 🙋 explained
+  - Docker:
+  - Kubernetes:
+  - GCC:
+  - LLVM:
 - Antipatterns
   - Magic numbers
   - Hard code
