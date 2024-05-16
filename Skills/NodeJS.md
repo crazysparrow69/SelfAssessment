@@ -30,19 +30,19 @@
   - Node.js CLI: 🙋 explained
   - Process-based permissions: 👂 heard
   - Graceful shutdown: 👂 heard
-  - Clustering: 🎓 known
-  - Watch filesystem changes with --watch: 👂 heard
+  - Clustering: 🖐: 🖐️ used
+  - Watch filesystem changes with --watch: 🖐: 🖐️ used
 - Internal API
-  - Streams API: 🖐 used
-  - Web Streams API: 🖐 used
-  - Crypto API: 🖐 used
-  - Password hashing with node:crypto.scrypt: 🖐 used
+  - Streams API: 🖐: 🖐️ used
+  - Web Streams API: 🖐: 🖐️ used
+  - Crypto API: 🖐: 🖐️ used
+  - Password hashing with node:crypto.scrypt: 🖐: 🖐️ used
   - Web Crypto API: 👂 heard
-  - File system API: sync and async: 🖐 used
+  - File system API: sync and async: 🖐: 🖐️ used
   - Copy folder recursively: 👂 heard
   - Worker threads: 🎓 known
   - Performance hooks: 👂 heard
-  - Native fetch and nodejs/undici: 🖐 used
+  - Native fetch and nodejs/undici: 🖐: 🖐️ used
   - node:async_hooks: 👂 heard
   - AsyncLocalStorage: 👂 heard
   - AsyncResource: 👂 heard
@@ -54,19 +54,18 @@
   - node:child_process: 🎓 known
   - MessageChannel, MessagePort: 👂 heard
   - BroadcastChannel: 👂 heard
-  - Generating crypto random UUID: 🖐 used
-  - node:url vs new URL: 🖐 used
+  - Generating crypto random UUID: 🖐: 🖐️ used
+  - node:url vs new URL: 🖐: 🖐️ used
   - node:assert: 👂 heard
   - Internationalization: 👂 heard
-  - Blob, File, Buffer, node:buffer: 🖐 used
+  - Blob, File, Buffer, node:buffer: 🖐: 🖐️ used
   - Module node:zlib: 👂 heard
 - Application structure and architecture
-  - Isolation between layer: 🖐 used
-  - Multilayer approach: 🖐 used
+  - Isolation between layer: 🖐: 🖐️ used
+  - Multilayer approach: 🖐: 🖐️ used
   - Separation of concerns: 👂 heard
   - Inversion of control: 👂 heard
-  - Dependency injection: 🙋 explained
-  - GRASP: 👂 heard
+  - GRASP: 🖐: 🖐️ used
   - SOLID: 🙋 explained
   - GoF patterns: 🙋 explained
   - Distributed systems: 👂 heard
@@ -84,33 +83,33 @@
   - GoF for Node.js: 🙋 explained
   - Leaking abstractions: 👂 heard
 - Network
-  - IP sticky sessions: 🖐 used
+  - IP sticky sessions: 🖐: 🖐️ used
   - Endpoint throttling: 🎓 known
   - HTTP(S): 🙋 explained
   - TCP/SSL: 🙋 explained
   - UDP: 🎓 known
-  - TLS: 🖐 used
+  - TLS: 🖐: 🖐️ used
   - Websocket: 🙋 explained
   - SSE: 🙋 explained
   - HTTP/3 (QUIC): 👂 heard
-  - Long polling: 🎓 known
+  - Long polling: 🖐: 🖐️ used
   - REST: 🙋 explained
   - RPC: 🎓 known
-  - Routing: 🎓 known
+  - Routing: 🖐: 🖐️ used
   - DoS: 🎓 known
   - DDoS: 🙋 explained
   - XSS: 🙋 explained
   - Path traversal: 👂 heard
   - CSRF: 🎓 known
-  - DNS: 🎓 known
+  - DNS: 🖐: 🖐️ used
   - Fetch API: 🙋 explained
   - IncomingMessage: 👂 heard
-  - SQL injection: 🖐 used
+  - SQL injection: 🖐: 🖐️ used
   - noDelay: 👂 heard
   - keep-alive: 🙋 explained
   - ALPN: 👂 heard
   - SNI callback: 👂 heard
-  - SSL certificates: 🎓 known
+  - SSL certificates: 🖐: 🖐️ used
   - Protocol agnostic approach: 👂 heard
 - Technique and tools
   - Native test runner: 👂 heard
@@ -118,11 +117,11 @@
   - Application configuring: 🎓 known
   - Testing: 🙋 explained
   - CI/CD: 🙋 explained
-  - Readable: 🖐 used
-  - Writable: 🖐 used
-  - Transform: 🖐 used
+  - Readable: 🖐: 🖐️ used
+  - Writable: 🖐: 🖐️ used
+  - Transform: 🖐: 🖐️ used
   - back pressure: 👂 heard
-  - Buffer: 🖐 used
+  - Buffer: 🖐: 🖐️ used
   - Console: 🙋 explained
   - Inspector: 👂 heard
   - Reliability: 🎓 known
@@ -130,26 +129,26 @@
   - Availability: 🎓 known
   - Flexibility: 🎓 known
 - Data access
-  - Data access layer: 🖐 used
+  - Data access layer: 🖐: 🖐️ used
   - Repository: 🙋 explained
   - Active record: 👂 heard
   - Query builder: 🎓 known
   - Object-Relational Mapping: 👂 heard
 - Error handling and debugging
   - Error: 🙋 explained
-  - error.cause: 🎓 known
-  - error.code: 🎓 known
-  - error.message: 🎓 known
-  - error.stack: 🎓 known
+  - error.cause: 🙋 explained
+  - error.code: 🙋 explained
+  - error.message: 🙋 explained
+  - error.stack: 🙋 explained
   - How to avoid mixins: 👂 heard
-  - Error.captureStackTrace: 👂 heard
+  - Error.captureStackTrace: 🖐: 🖐️ used
   - Uncaught exceptions: 🙋 explained
   - Heap dump: 🎓 known
-  - Debugging tools: 🖐 used
+  - Debugging tools: 🖐: 🖐️ used
   - Flame graph: 👂 heard
   - Memory leaks: 👂 heard
   - Resource leaks: 👂 heard
-  - Data race: 👂 heard
+  - Data race: 🙋 explained
 - Integrations and bindings
   - Native addons: 👂 heard
   - C and C++ addons: 👂 heard

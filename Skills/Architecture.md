@@ -1,12 +1,12 @@
 ## Architecture
 
 - Application structure
-  - Modularity: 🎓 known
-  - Components: 🎓 known
-  - Directories: 🎓 known
-  - GRASP: 🎓 known
-  - SOLID: 🎓 known
-  - GoF patterns: 🎓 known
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 🖐️ used
+  - SOLID: 🖐️ used
+  - GoF patterns: 🖐️ used
   - CQS: 🎓 known
   - Leaking abstractions: 🎓 known
   - Multiparadigm code: 🎓 known
@@ -19,7 +19,7 @@
   - Coupling: 🎓 known
   - Cyclomatic complexity: 🎓 known
   - Reliability: 🎓 known
-  - Quality: 🎓 known
+  - Quality: 🙋 explained
   - Availability: 🎓 known
   - Flexibility: 🎓 known
   - Law of Demeter (LoD): 🎓 known
@@ -31,8 +31,8 @@
   - Hexagonal architecture: 🎓 known
   - Separation of concerns (SoC): 🎓 known
   - Metaprogramming: 🎓 known
-  - Inversion of control (IoC): 🎓 known
-  - Dependency injection (DI): 🎓 known
+  - Inversion of control (IoC): 🙋 explained
+  - Dependency injection (DI): 🙋 explained
   - Clean architecture: 🎓 known
   - Domain-driven design (DDD): 🎓 known
   - Pub/sub: 🎓 known
@@ -51,7 +51,7 @@
   - Distributed systems: 🎓 known
   - High-intensive computing: 🎓 known
   - Load balancing: 🎓 known
-  - Gateways: 🎓 known
+  - Gateways: 🙋 explained
   - On-premises: 👂 heard
   - IaaS: 👂 heard
   - PaaS: 👂 heard
@@ -76,11 +76,11 @@
   - No-code: 🎓 known
   - Metric: 🎓 known
   - Metric abuse: 🎓 known
-  - ACID: 🎓 known
+  - ACID: 🙋 explained
   - CAP theorem: 🎓 known
   - Single source of truth (SSOT): 🎓 known
 - Enterprise architecture
-  - Understanding business needs: 🎓 known
+  - Understanding business needs: 🙋 explained
   - Enterprise strategy: 🎓 known
   - Integration with subsystems: 🎓 known
   - Enterprise vision: 🎓 known
@@ -88,7 +88,7 @@
   - Project scope: 🎓 known
   - Enterprise service bus: 🎓 known
   - Service-oriented architecture: 🎓 known
-  - Microservices: 🎓 known
+  - Microservices: 🙋 explained
   - Process choreography: 👂 heard
   - Service orchestration: 👂 heard
   - Data warehouse: 🎓 known

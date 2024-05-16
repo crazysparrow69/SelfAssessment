@@ -3,7 +3,7 @@
 - Concepts
   - Model: 🙋 explained
   - Modeling: 🙋 explained
-  - Subject domain
+  - Subject domain: 👂 heard
   - Algorithm: 🙋 explained
   - Syntax: 🙋 explained
   - Semantics: 🙋 explained
@@ -96,7 +96,7 @@
   - Callback: 🙋 explained
   - Listener: 🙋 explained
   - Composition: 🎓 known
-  - Pipe: 🎓 known
+  - Pipe: 🖐️ used
   - Memoize: 🙋 explained
   - Wrapper: 🙋 explained
   - Functor: 🎓 known
@@ -113,20 +113,20 @@
   - Object: 🙋 explained
   - Collection: 🙋 explained
   - Set: 🙋 explained
-  - Hash table: 🎓 known
-  - Linked list: 🙋 explained
-  - Doubly list: 🙋 explained
+  - Hash table: 🚀 constructed
+  - Linked list: 🚀 constructed
+  - Doubly list: 🚀 constructed
   - Unrolled list: 🙋 explained
-  - Circular list: 🙋 explained
+  - Circular list: 🚀 constructed
   - Queue: 🙋 explained
   - Stack: 🙋 explained
-  - Deque:: 🎓 known
-  - Tree:: 🎓 known
-  - Graph:: 🖐 used
-  - Iterator:: 🎓 known
-  - Mutable state:: 🎓 known
-  - Immutable state: 🖐 used
-  - Serialization: 🎓 known
+  - Deque: 🎓 known
+  - Tree: 🎓 known
+  - Graph: 🖐: 🖐️ used
+  - Iterator: 🎓 known
+  - Mutable state: 🖐: 🖐️ used
+  - Immutable state: 🖐: 🖐️ used
+  - Serialization: 🖐: 🖐️ used
   - String parsing: 🙋 explained
   - JSON: 🙋 explained
   - JSON5: 👂 heard
@@ -143,8 +143,8 @@
   - URI: 🙋 explained
 - Process and tools
   - Compiler: 🙋 explained
-  - Just-in-time compilation:
-  - Ahead-of-time compilation:
+  - Just-in-time compilation: 🙋 explained
+  - Ahead-of-time compilation: 👂 heard
   - Transpiler: 🎓 known
   - Linter: 🙋 explained
   - Polyfill: 🎓 known
@@ -203,7 +203,7 @@
   - Yo-yo problem: 🎓 known
 - Runtimes and virtual machines
   - Bytecode: 🎓 known
-  - V8: 🎓 known
+  - V8: 🙋 explained
   - VJM: 👂 heard
   - CLR: 👂 heard
   - Mono: 👂 heard
@@ -214,7 +214,7 @@
   - Ring: 👂 heard
   - Virtual memory: 🎓 known
   - File system: 🖐️ used
-  - Linux: 🖐️ used
+  - Linux: 🙋 explained
   - Unix: 🎓 known
   - BSD: 👂 heard
   - MacOS: 🎓 known
@@ -223,7 +223,7 @@
   - Embedded OS: 👂 heard
 - Standards
   - ASCII: 🖐️ used
-  - Escape sequence
+  - Escape sequence: 👂 heard
   - RFC: 🖐️ used
   - IETF: 👂 heard
   - IANA: 👂 heard

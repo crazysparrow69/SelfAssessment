@@ -61,18 +61,18 @@
   - Async functions in useEffect: 🙋 explained
   - Multiple useState hooks: 🙋 explained
 - Environment
-  - React Router: 🖐 used
-  - React Redux: 🖐 used
-  - React Dom: 🖐 used
-  - Redux Thunk: 🖐 used
-  - Redux Final Form: 🖐 used
-  - Formik: 🖐 used
-  - Babel: 🖐 used
-  - Sass: 🖐 used
-  - Webpack: 🖐 used
-  - Hook form: 🖐 used
-  - React DevTools: 🖐 used
-  - Redux DevTools: 🖐 used
-  - Jest: 🖐 used
-  - React Testing Library: 🖐 used
-  - Reselect: 🖐 used
+  - React Router: 🖐: 🖐️ used
+  - React Redux: 🖐: 🖐️ used
+  - React Dom: 🖐: 🖐️ used
+  - Redux Thunk: 🖐: 🖐️ used
+  - Redux Final Form: 🖐: 🖐️ used
+  - Formik: 🖐: 🖐️ used
+  - Babel: 🖐: 🖐️ used
+  - Sass: 🖐: 🖐️ used
+  - Webpack: 🖐: 🖐️ used
+  - Hook form: 🖐: 🖐️ used
+  - React DevTools: 🖐: 🖐️ used
+  - Redux DevTools: 🖐: 🖐️ used
+  - Jest: 🖐: 🖐️ used
+  - React Testing Library: 🖐: 🖐️ used
+  - Reselect: 🖐: 🖐️ used
