@@ -19,7 +19,7 @@
   - Concurrent programming: 🎓 known
   - Parallel programming: 🎓 known
   - Actor Model: 👂 heard
-  - Thread: 🖐 used
+  - Thread: 🖐: 🖐️ used
   - Process: 🎓 known
 - Async contracts
   - Callbacks: 🔬 researched
@@ -29,14 +29,14 @@
   - Async/await: 🔬 researched
   - Future: 👂 heard
   - Deferred: 👂 heard
-  - Sync generator: 🖐 used
+  - Sync generator: 🖐: 🖐️ used
   - Async Generator: 🎓 known
   - Async Iterator: 🎓 known
   - Event: 🙋 explained
   - Coroutine: 🎓 known
   - Goroutine: 🎓 known
   - Signal: 🎓 known
-  - Stream: 🖐 used
+  - Stream: 🖐: 🖐️ used
   - Chain of responsibility: 👂 heard
   - Middleware: 🙋 explained
   - Locks: 👂 heard
@@ -47,7 +47,7 @@
   - Callbacks compose: 👂 heard
   - Async compose: 👂 heard
 - Async abstractions interfaces
-  - EventEmitter: 🖐 used
+  - EventEmitter: 🖐: 🖐️ used
   - Observable/Observer: 🙋 explained
   - Readable: 🙋 explained
   - Writable: 🙋 explained
@@ -76,13 +76,11 @@
   - Error handling in async code: 🙋 explained
   - Better stack traces with return await: 🙋 explained
   - JSON: streaming serialization: 👂 heard
-  - promisify: 👂 heard
-  - callbackify: 👂 heard
   - AsyncLocalStorage: 🎓 known
   - AsyncResource: 👂 heard
 - Techniques
   - async.js library: 👂 heard
-  - RxJS library: 🖐 used
+  - RxJS library: 🖐: 🖐️ used
   - Async composition: 👂 heard
   - Promise.all: 🙋 explained
   - Promise.allSettled: 🙋 explained

@@ -7,7 +7,7 @@
   - Number: 🙋 explained
   - BigInt: 🙋 explained
   - String: 🙋 explained
-  - Symbol: 🖐 used
+  - Symbol: 🖐: 🖐️ used
   - Infinity: 🙋 explained
   - NaN: 🙋 explained
   - undefined: 🙋 explained
@@ -24,7 +24,7 @@
   - Async iterator: 🎓 known
   - Chaining: 🙋 explained
   - Optional chaining: 🙋 explained
-  - IIFE: 🖐 used
+  - IIFE: 🖐: 🖐️ used
   - Async IIFE: 🎓 known
   - global: 🙋 explained
   - globalThis: 🙋 explained
@@ -47,17 +47,17 @@
   - in: 🙋 explained
   - super: 🙋 explained
   - eval: 🎓 known
-  - static: 🖐 used
-  - Number.parseInt: 🖐 used
-  - Number.parseFloat: 🖐 used
-  - Property descriptors: 🖐 used
+  - static: 🖐: 🖐️ used
+  - Number.parseInt: 🖐: 🖐️ used
+  - Number.parseFloat: 🖐: 🖐️ used
+  - Property descriptors: 🖐: 🖐️ used
   - Sealing properties: 👂 heard
-  - Freezing properties: 🖐 used
+  - Freezing properties: 🖐: 🖐️ used
   - Computed properties: 👂 heard
-  - Instance class fields: 🖐 used
-  - Static class fields: 🖐 used
-  - Private class fields: 🖐 used
-  - Private class methods: 🖐 used
+  - Instance class fields: 🖐: 🖐️ used
+  - Static class fields: 🖐: 🖐️ used
+  - Private class fields: 🖐: 🖐️ used
+  - Private class methods: 🖐: 🖐️ used
 - Statements
   - if: 🙋 explained
   - while: 🙋 explained

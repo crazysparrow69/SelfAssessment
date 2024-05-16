@@ -122,11 +122,11 @@
   - Stack: 🙋 explained
   - Deque: 🎓 known
   - Tree: 🎓 known
-  - Graph: 🖐 used
+  - Graph: 🖐: 🖐️ used
   - Iterator: 🎓 known
-  - Mutable state: 🖐 used
-  - Immutable state: 🖐 used
-  - Serialization: 🖐 used
+  - Mutable state: 🖐: 🖐️ used
+  - Immutable state: 🖐: 🖐️ used
+  - Serialization: 🖐: 🖐️ used
   - String parsing: 🙋 explained
   - JSON: 🙋 explained
   - JSON5: 👂 heard

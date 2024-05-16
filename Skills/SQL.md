@@ -1,55 +1,55 @@
 ## SQL
 
 - Main concepts
-  - DML: 🖐 used
-  - selection: 🖐 used
-  - projection: 🖐 used
-  - nested subqueries: 🖐 used
-  - join: 🖐 used
-  - left join: 🖐 used
-  - right join: 🖐 used
-  - alias: 🖐 used
-  - direct multiplication of tables: 🖐 used
-  - relational division: 🖐 used
-  - aggregate functions: 🖐 used
-  - full projection: 🖐 used
+  - DML: 🖐: 🖐️ used
+  - selection: 🖐: 🖐️ used
+  - projection: 🖐: 🖐️ used
+  - nested subqueries: 🖐: 🖐️ used
+  - join: 🖐: 🖐️ used
+  - left join: 🖐: 🖐️ used
+  - right join: 🖐: 🖐️ used
+  - alias: 🖐: 🖐️ used
+  - direct multiplication of tables: 🖐: 🖐️ used
+  - relational division: 🖐: 🖐️ used
+  - aggregate functions: 🖐: 🖐️ used
+  - full projection: 🖐: 🖐️ used
 - Syntax
-  - CREATE DATABASE: 🖐 used
-  - SHOW DATABASES: 🖐 used
-  - USE: 🖐 used
-  - SOURCE: 🖐 used
-  - CREATE TABLES: 🖐 used
-  - SHOW TABLE: 🖐 used
-  - DROP TABLE: 🖐 used
-  - DESCRIBE: 🖐 used
-  - INSERT: 🖐 used
-  - UPDATE: 🖐 used
-  - DELETE: 🖐 used
-  - SELECT: 🖐 used
-  - SELECT DISTINCT: 🖐 used
-  - WHERE: 🖐 used
-  - GROUP BY: 🖐 used
-  - ORDER BY: 🖐 used
-  - HAVING: 🖐 used
-  - BETWEEN: 🖐 used
-  - IN: 🖐 used
-  - LIKE: 🖐 used
-  - JOIN: 🖐 used
-  - VIEW: 🖐 used
-  - LIMIT: 🖐 used
+  - CREATE DATABASE: 🖐: 🖐️ used
+  - SHOW DATABASES: 🖐: 🖐️ used
+  - USE: 🖐: 🖐️ used
+  - SOURCE: 🖐: 🖐️ used
+  - CREATE TABLES: 🖐: 🖐️ used
+  - SHOW TABLE: 🖐: 🖐️ used
+  - DROP TABLE: 🖐: 🖐️ used
+  - DESCRIBE: 🖐: 🖐️ used
+  - INSERT: 🖐: 🖐️ used
+  - UPDATE: 🖐: 🖐️ used
+  - DELETE: 🖐: 🖐️ used
+  - SELECT: 🖐: 🖐️ used
+  - SELECT DISTINCT: 🖐: 🖐️ used
+  - WHERE: 🖐: 🖐️ used
+  - GROUP BY: 🖐: 🖐️ used
+  - ORDER BY: 🖐: 🖐️ used
+  - HAVING: 🖐: 🖐️ used
+  - BETWEEN: 🖐: 🖐️ used
+  - IN: 🖐: 🖐️ used
+  - LIKE: 🖐: 🖐️ used
+  - JOIN: 🖐: 🖐️ used
+  - VIEW: 🖐: 🖐️ used
+  - LIMIT: 🖐: 🖐️ used
 - Aggregate functions
-  - APPROX_COUNT_DISTINCT: 🖐 used
-  - AVG: 🖐 used
-  - CHECKSUM_AGG: 🖐 used
-  - COUNT: 🖐 used
-  - COUNT_BIG: 🖐 used
-  - GROUPING: 🖐 used
-  - GROUPING_ID: 🖐 used
-  - MAX: 🖐 used
-  - MIN: 🖐 used
-  - STDEV: 🖐 used
-  - STDEVP: 🖐 used
-  - STRING_AGG: 🖐 used
-  - SUM: 🖐 used
-  - VAR: 🖐 used
-  - VARP: 🖐 used
+  - APPROX_COUNT_DISTINCT: 🖐: 🖐️ used
+  - AVG: 🖐: 🖐️ used
+  - CHECKSUM_AGG: 🖐: 🖐️ used
+  - COUNT: 🖐: 🖐️ used
+  - COUNT_BIG: 🖐: 🖐️ used
+  - GROUPING: 🖐: 🖐️ used
+  - GROUPING_ID: 🖐: 🖐️ used
+  - MAX: 🖐: 🖐️ used
+  - MIN: 🖐: 🖐️ used
+  - STDEV: 🖐: 🖐️ used
+  - STDEVP: 🖐: 🖐️ used
+  - STRING_AGG: 🖐: 🖐️ used
+  - SUM: 🖐: 🖐️ used
+  - VAR: 🖐: 🖐️ used
+  - VARP: 🖐: 🖐️ used
