@@ -1,121 +1,89 @@
-## JavaScript
+## Programming fundamental concepts
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
-  - Chaining
-  - Optional chaining
-  - IIFE
-  - Async IIFE
-  - `global`
-  - `globalThis`
-  - `window`
-  - Getters and setters
-  - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
-  - `yield`
-  - `await`
-  - Template literal
-  - Strict mode
-  - Hoisting
-  - `delete`
-  - `in`
-  - `super`
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
-  - Property descriptors
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Object: 🙋 explained
+  - this: 🙋 explained
+  - arrow function: 🙋 explained
+  - async function: 🙋 explained
+  - call: 🙋 explained
+  - bind: 🙋 explained
+  - apply: 🙋 explained
+  - instanceof: 🙋 explained
+  - ...spread: 🙋 explained
+  - ...rest: 🙋 explained
+  - typeof: 🙋 explained
+  - destructuring: 🙋 explained
+  - generator: 🎓 known
+  - iterator: 🎓 known
+  - async generator: 🎓 known
+  - async iterator: 🎓 known
+  - chaining: 🙋 explained
+  - optional chaining: 🙋 explained
+  - IIFE: 🎓 known
+  - global: 🙋 explained
+  - globalThis: 🙋 explained
+  - window: 🙋 explained
+  - getters and setters: 🙋 explained
+  - **proto**: 🎓 known
+  - prototype: 🙋 explained
+  - equality operators: 🙋 explained
+  - logical operators: 🙋 explained
+  - bitwise operators: 👂 heard
+  - ternary operator: 🙋 explained
+  - void: 🙋 explained
+  - yield: 👂 heard
+  - await: 🙋 explained
+  - template literal: 🙋 explained
+  - strict mode: 🙋 explained
+  - delete: 🙋 explained
+  - in: 🙋 explained
+  - super: 🙋 explained
+  - Symbol: 👂 heard
+  - Reflect: 👂 heard
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
-  - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
-  - `with`
-  - `new`
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 🙋 explained
+  - for: 🙋 explained
+  - for..in: 🙋 explained
+  - for..of: 🙋 explained
+  - for await: 🙋 explained
+  - throw: 🙋 explained
+  - break: 🙋 explained
+  - continue: 🙋 explained
+  - import: 🙋 explained
+  - export: 🙋 explained
+  - label: 👂 heard
+  - try..catch: 🙋 explained
+  - switch: 🙋 explained
+  - class: 🙋 explained
+  - new Error: 🙋 explained
+  - with: 👂 heard
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
-  - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
-  - `return`
+  - function declaration: 🙋 explained
+  - function expression: 🙋 explained
+  - return: 🙋 explained
+  - default parameters: 🙋 explained
+  - functional object: 🙋 explained
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
-  - `WeakMap`
-  - `WeakSet`
-  - Typed arrays
-  - Mixins
-  - `Object.assign`
-- Standard classes and namespaces
-  - `Proxy`
-  - `RegExp`
-  - `Date`
-  - `Math`
-  - `Reflect`
-  - `Error`
-  - `Atomics`
-  - `JSON`
-  - `WeakRef`
-  - `FinalizationRegistry`
-  - `Intl`
-  - `Promise`
-  - `console`
-  - Timers
+  - Array: 🙋 explained
+  - mixin: 🎓 known
+  - extend: 🙋 explained
+  - typed arrays: 🙋 explained
+  - Map: 🙋 explained
+  - Set: 🙋 explained
+  - undefined: 🙋 explained
+  - null: 🙋 explained
+  - Proxy: 👂 heard
+  - weak collections: 🎓 known
+  - timers: 🙋 explained
+  - EventEmitter: 🙋 explained
+  - RegExp: 🙋 explained
+  - Date: 🙋 explained
+  - BigInt: 🎓 known
 - Infrastructure
   - V8: 🔬 researched
   - Node.js: 🔬 researched
   - npm: 🙋 explained
-  - prettier: 🖐️ used
-  - MDN: 🖐️ used
+  - prettier: 🖐 used
+  - MDN: 🖐 used

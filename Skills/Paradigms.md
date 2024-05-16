@@ -1,91 +1,37 @@
-## Multi-paradigm programming
 
-- Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
-  - Reactive programming
-  - Functional-reactive (FRP)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
-  - Lambda calculus
-  - Black box
-  - Information hiding
-  - Aspect-oriented programming
-  - Anemic domain model
-  - Class composition
-- OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - Instance
-  - Introspection
-  - Reflection
-  - The diamond problem
-- GRASP
-  - Information expert
-  - Creator
-  - Controller
-  - Indirection
-  - Low coupling
-  - High cohesion
-  - Protected variations
-  - Pure fabrication
-- SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
-- Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
-  - Reactor
-  - Active object
-  - Delegation
+  - Active record: 👂 heard
+  - Query builder: 🎓 known
+  - Object-Relational Mapping: 👂 heard
+- Error handling and debugging
+  - Error: 🙋 explained
+  - error.cause: 🎓 known
+  - error.code: 🎓 known
+  - error.message: 🎓 known
+  - error.stack: 🎓 known
+  - How to avoid mixins: 👂 heard
+  - Error.captureStackTrace: 👂 heard
+  - Uncaught exceptions: 🙋 explained
+  - Heap dump: 🎓 known
+  - Debugging tools: 🖐 used
+  - Flame graph: 👂 heard
+  - Memory leaks: 👂 heard
+  - Resource leaks: 👂 heard
+  - Data race: 👂 heard
+- Integrations and bindings
+  - Native addons: 👂 heard
+  - C and C++ addons: 👂 heard
+  - Rust addons: 👂 heard
+  - Zig addons: 👂 heard
+  - NAN (Native Abstractions for Node.js): 👂 heard
+  - Node-API (formerly N-API): 🎓 known
+  - NAPI C and C++: 👂 heard
+  - NAPI Rust: 👂 heard
+  - NAPI Zig: 👂 heard
+  - Webassembly WAT: 👂 heard
+  - Webassembly C and C++: 👂 heard
+  - Webassembly Rust: 👂 heard
+  - Webassembly Zig: 👂 heard
+  - Webassembly AssemblyScript: 👂 heard
+  - Shared memory: 👂 heard
+  - SharedArrayBuffer: 👂 heard
+  - V8 binary serialization: 👂 heard

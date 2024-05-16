@@ -33,16 +33,16 @@
   - Clustering: 🎓 known
   - Watch filesystem changes with --watch: 👂 heard
 - Internal API
-  - Streams API: 🖐: 🖐️ used
-  - Web Streams API: 🖐: 🖐️ used
-  - Crypto API: 🖐: 🖐️ used
-  - Password hashing with node:crypto.scrypt: 🖐: 🖐️ used
+  - Streams API: 🖐 used
+  - Web Streams API: 🖐 used
+  - Crypto API: 🖐 used
+  - Password hashing with node:crypto.scrypt: 🖐 used
   - Web Crypto API: 👂 heard
-  - File system API: sync and async: 🖐: 🖐️ used
+  - File system API: sync and async: 🖐 used
   - Copy folder recursively: 👂 heard
   - Worker threads: 🎓 known
   - Performance hooks: 👂 heard
-  - Native fetch and nodejs/undici: 🖐: 🖐️ used
+  - Native fetch and nodejs/undici: 🖐 used
   - node:async_hooks: 👂 heard
   - AsyncLocalStorage: 👂 heard
   - AsyncResource: 👂 heard
@@ -54,17 +54,18 @@
   - node:child_process: 🎓 known
   - MessageChannel, MessagePort: 👂 heard
   - BroadcastChannel: 👂 heard
-  - Generating crypto random UUID: 🖐: 🖐️ used
-  - node:url vs new URL: 🖐: 🖐️ used
+  - Generating crypto random UUID: 🖐 used
+  - node:url vs new URL: 🖐 used
   - node:assert: 👂 heard
   - Internationalization: 👂 heard
-  - Blob, File, Buffer, node:buffer: 🖐: 🖐️ used
+  - Blob, File, Buffer, node:buffer: 🖐 used
   - Module node:zlib: 👂 heard
 - Application structure and architecture
-  - Isolation between layer: 🖐: 🖐️ used
-  - Multilayer approach: 🖐: 🖐️ used
+  - Isolation between layer: 🖐 used
+  - Multilayer approach: 🖐 used
   - Separation of concerns: 👂 heard
   - Inversion of control: 👂 heard
+  - Dependency injection: 🙋 explained
   - GRASP: 👂 heard
   - SOLID: 🙋 explained
   - GoF patterns: 🙋 explained
@@ -83,12 +84,12 @@
   - GoF for Node.js: 🙋 explained
   - Leaking abstractions: 👂 heard
 - Network
-  - IP sticky sessions: 🖐: 🖐️ used
+  - IP sticky sessions: 🖐 used
   - Endpoint throttling: 🎓 known
   - HTTP(S): 🙋 explained
   - TCP/SSL: 🙋 explained
   - UDP: 🎓 known
-  - TLS: 🖐: 🖐️ used
+  - TLS: 🖐 used
   - Websocket: 🙋 explained
   - SSE: 🙋 explained
   - HTTP/3 (QUIC): 👂 heard
@@ -104,7 +105,7 @@
   - DNS: 🎓 known
   - Fetch API: 🙋 explained
   - IncomingMessage: 👂 heard
-  - SQL injection: 🖐: 🖐️ used
+  - SQL injection: 🖐 used
   - noDelay: 👂 heard
   - keep-alive: 🙋 explained
   - ALPN: 👂 heard
@@ -117,11 +118,11 @@
   - Application configuring: 🎓 known
   - Testing: 🙋 explained
   - CI/CD: 🙋 explained
-  - Readable: 🖐: 🖐️ used
-  - Writable: 🖐: 🖐️ used
-  - Transform: 🖐: 🖐️ used
+  - Readable: 🖐 used
+  - Writable: 🖐 used
+  - Transform: 🖐 used
   - back pressure: 👂 heard
-  - Buffer: 🖐: 🖐️ used
+  - Buffer: 🖐 used
   - Console: 🙋 explained
   - Inspector: 👂 heard
   - Reliability: 🎓 known
@@ -129,40 +130,42 @@
   - Availability: 🎓 known
   - Flexibility: 🎓 known
 - Data access
-  - Data access layer: 🖐: 🖐️ used
+  - Data access layer: 🖐 used
   - Repository: 🙋 explained
   - Active record: 👂 heard
   - Query builder: 🎓 known
   - Object-Relational Mapping: 👂 heard
 - Error handling and debugging
-  - `Error`
-  - `error.cause`
-  - `error.code`
-  - `error.message`
-  - `error.stack`
-  - `Error.captureStackTrace`
-  - How to avoid mixins
-  - Uncaught exceptions
-  - Heap dump
-  - Debugging tools
-  - Flame graph
-  - Memory leaks
-  - Resource leaks
-  - Data race
+  - Error: 🙋 explained
+  - error.cause: 🎓 known
+  - error.code: 🎓 known
+  - error.message: 🎓 known
+  - error.stack: 🎓 known
+  - How to avoid mixins: 👂 heard
+  - Error.captureStackTrace: 👂 heard
+  - Uncaught exceptions: 🙋 explained
+  - Heap dump: 🎓 known
+  - Debugging tools: 🖐 used
+  - Flame graph: 👂 heard
+  - Memory leaks: 👂 heard
+  - Resource leaks: 👂 heard
+  - Data race: 👂 heard
 - Integrations and bindings
-  - Native addons
-  - `C` and `C++` addons
-  - `Rust` addons
-  - `Zig` addons
-  - NAN (Native Abstractions for Node.js)
-  - Node-API (formerly N-API)
-  - NAPI `C` and `C++`
-  - NAPI `Rust`
-  - NAPI `Zig`
-  - Webassembly `WAT`
-  - Webassembly `C` and `C++`
-  - Webassembly `Rust`
-  - Webassembly `Zig`
-  - Webassembly `AssemblyScript`
-  - Shared memory
-  - V8 binary serialization
+  - Native addons: 👂 heard
+  - C and C++ addons: 👂 heard
+  - Rust addons: 👂 heard
+  - Zig addons: 👂 heard
+  - NAN (Native Abstractions for Node.js): 👂 heard
+  - Node-API (formerly N-API): 🎓 known
+  - NAPI C and C++: 👂 heard
+  - NAPI Rust: 👂 heard
+  - NAPI Zig: 👂 heard
+  - Webassembly WAT: 👂 heard
+  - Webassembly C and C++: 👂 heard
+  - Webassembly Rust: 👂 heard
+  - Webassembly Zig: 👂 heard
+  - Webassembly AssemblyScript: 👂 heard
+  - Shared memory: 👂 heard
+  - SharedArrayBuffer: 👂 heard
+  - V8 binary serialization: 👂 heard
+
